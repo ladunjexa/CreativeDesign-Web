@@ -579,6 +579,10 @@ html {
   .section-1-heading {
     top: 48vw;
   }
+  
+  .logo {
+    opacity: 1;
+  }
 
   .section-heading {
     margin-bottom: 5rem;
